@@ -3,6 +3,6 @@
  */
 public class Main {
     static void main(String[] args) {
-        System.out.println("Pozdrav svima!");
+        System.out.println("Pozdrav svima koliko vas ima!");
     }
 }
